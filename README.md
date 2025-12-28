@@ -29,6 +29,11 @@ Train and evaluate a LeNet-style Convolutional Neural Network (CNN) for handwrit
 - Learning rate: 0.001
 
 ## Experiments & Results
+With the model architecture fixed, multiple experiments were performed by adjusting the 
+- Learning rate
+- Number of epochs
+- Optimizer
+
 | Experiment | Epochs | Optimizer | LR | Accuracy |
 |----------|--------|-------|----------|-----------|
 | Baseline | 10     | Adam | 0.001 | 98.90%   |
